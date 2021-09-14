@@ -83,7 +83,7 @@ Request you token with by sending a post request (with HTTPie):
 ```
 Make a get request (with HTTPie) to get the info:
 ``` bash
-   http http://127.0.0.1:8000/hello/ 'Authorization: Token <token_received in  previous step>'
+   http http://127.0.0.1:8000/hello/ 'Authorization: Token <token_received_in_previous_step>'
 ```
 
 You can access the page by typing in your web browser and login with your superuser credentials
