@@ -42,14 +42,14 @@ Additional description about the project and its features.
 ## Getting Started
 ### Usage
 To have this app on your pc, you need to:
-* [download](https://github.com/javitocor/Blog-Django/archive/main.zip) or clone this repo:
+* [download](https://github.com/javitocor/DRF_Auth/archive/main.zip) or clone this repo:
   - Clone with SSH:
   ```
-    git@github.com:javitocor/Blog-Django.git
+    git@github.com:javitocor/DRF_Auth.git
   ```
   - Clone with HTTPS
   ```
-    https://github.com/javitocor/Blog-Django.git
+    https://github.com/javitocor/DRF_Auth.git
   ```
 
 * In the project directory, you can run:
@@ -103,7 +103,7 @@ You can access the page by typing in your web browser and login with your superu
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/javitocor/Blog-Django/issues).
+Feel free to check the [issues page](https://github.com/javitocor/DRF_Auth/issues).
 
 ## Show your support
 
@@ -120,11 +120,11 @@ This project is [MIT](lic.url) licensed.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/javitocor/Blog-Django.svg?style=flat-square
-[contributors-url]: https://github.com/javitocor/Blog-Django/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/javitocor/Blog-Django.svg?style=flat-square
-[forks-url]: https://github.com/javitocor/Blog-Django/network/members
-[stars-shield]: https://img.shields.io/github/stars/javitocor/Blog-Django.svg?style=flat-square
-[stars-url]: https://github.com/javitocor/Blog-Django/stargazers
-[issues-shield]: https://img.shields.io/github/issues/javitocor/Blog-Django.svg?style=flat-square
-[issues-url]: https://github.com/javitocor/Blog-Django/issuesover:
+[contributors-shield]: https://img.shields.io/github/contributors/javitocor/DRF_Auth.svg?style=flat-square
+[contributors-url]: https://github.com/javitocor/DRF_Auth/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/javitocor/DRF_Auth.svg?style=flat-square
+[forks-url]: https://github.com/javitocor/DRF_Auth/network/members
+[stars-shield]: https://img.shields.io/github/stars/javitocor/DRF_Auth.svg?style=flat-square
+[stars-url]: https://github.com/javitocor/DRF_Auth/stargazers
+[issues-shield]: https://img.shields.io/github/issues/javitocor/DRF_Auth.svg?style=flat-square
+[issues-url]: https://github.com/javitocor/DRF_Auth/issuesover:
