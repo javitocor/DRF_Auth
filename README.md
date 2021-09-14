@@ -76,13 +76,14 @@ Create a superuser in the command line by typing:
    python manage.py createsuperuser --username example --email example@example.com
 ```
 
-Request you token with by sending a post request(with HTTPie):
+Request you token with by sending a post request (with HTTPie):
 ``` bash
-   http post http://127.0.0.1:8000/api-token-auth/ username=example password=123
+   command line: python manage.py drf_create_token <name_superuser>
+   httpie: http post http://127.0.0.1:8000/api-token-auth/ username=example password=123
 ```
-Make a get request(with HTTPie) to get the info:
+Make a get request (with HTTPie) to get the info:
 ``` bash
-   http http://127.0.0.1:8000/hello/ 'Authorization: Token 9054f7aa9305e012b3c2300408c3dfdf390fcddf'
+   http http://127.0.0.1:8000/hello/ 'Authorization: Token <token_received in  previous step>'
 ```
 
 You can access the page by typing in your web browser and login with your superuser credentials
